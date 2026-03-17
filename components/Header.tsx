@@ -13,6 +13,7 @@ export function Header() {
           <Link href="/tools/reply-generator" className="hover:text-white transition">Reply Generator</Link>
           <Link href="/tools/faq-generator" className="hover:text-white transition">FAQ Generator</Link>
           <Link href="/tools/blog-titles" className="hover:text-white transition">Blog Titles</Link>
+          <Link href="/resources" className="hover:text-brand-accent text-brand-accent/70 font-medium transition">Resources</Link>
         </nav>
       </div>
     </header>
